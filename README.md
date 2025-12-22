@@ -39,7 +39,7 @@
 
   <img width="40" />
 
-  <a href="https://github.com/KryonOS">
+  <a href="https://github.com/Kryon-OS">
     <img src="kryonos_icon.svg" height="90" alt="Kryon OS Organization" />
   </a>
 </div>
